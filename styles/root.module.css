@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.titleGradient {
+  background: -webkit-linear-gradient(#9796f0, #fbc7d4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
