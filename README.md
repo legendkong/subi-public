@@ -1,6 +1,6 @@
 # Subi RegEx 🔮 
 
-*** Note that this is the public facing repository of [subiRegex.com](https://www.subiregex.com) and certain files have been added/remove/hidden from the public.
+> Note that this is the public facing repository of [subiRegex.com](https://www.subiregex.com) and certain files have been added/remove/hidden from the public.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J4JAD3Q)
 
